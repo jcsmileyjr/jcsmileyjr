@@ -7,7 +7,7 @@ Builder, Developer, Community Volunteer
 I'm a front-end developer with a passion for building applications and uplifting my local tech community. I help organize and lead online and in-person tech meetups for the Memphis, TN based non-profit Code Connector. The focus is on helping aspiring developers find resources, network, and talk tech.
 
 * 🌍  I'm based in Memphis, TN USA
-* 🖥️  See my portfolio at [https://www.jcsmileyjr.com/](http://https://www.jcsmileyjr.com/)
+* 🖥️  See my portfolio at [https://www.jcsmileyjr.com/](https://www.jcsmileyjr.com/)
 * 🧠  I'm learning TypeScript
 
 <a href="https://www.github.com/jcsmileyjr" target="_blank" rel="noreferrer"><img
