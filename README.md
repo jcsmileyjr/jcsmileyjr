@@ -1,38 +1,69 @@
-Hi 👋 My name is JC Smiley
-==========================
-
-Builder, Developer, Community Leader/Volunteer
-----------------------------------------------
-
-I'm a dedicated front-end developer with a deep passion for creating community-focused applications and uplifting my local tech community. I am proud to play a role in organizing and leading online and in-person tech meetups for the amazing non-profit organization, Code Connector, based in Memphis, TN. Together, we strive to empower aspiring developers by providing valuable resources and fostering meaningful networking opportunities.
-
-* 🌍  I'm based in Memphis, TN
-* ✉️  You can contact me at [jcsmileyjr@gmail.com](mailto:jcsmileyjr@gmail.com)
-* 🚀  I'm currently working on [A full-stack app that allows multiple people to contribute to the care of a loved one.](http://https://elder-two.vercel.app/)
-* 🧠  I'm learning TypeScript and Nextjs
-
+# Hi 👋 I'm JC Smiley Jr.
+ 
+### Full-Stack Product Engineer | React · Next.js · TypeScript | Python · PostgreSQL Data Pipelines
+ 
+I turn ambiguous product ideas into reliable, user-focused releases. I'm the founder of [Tech Scene Media](https://memphistechscene.com/), a community media platform for the Memphis tech scene, and an AI & Digital Skills instructor. I've shipped production work for St. Jude Children's Research Hospital (ALSAC), Hone Health, and Innovate Memphis. I'm now building my data engineering skills with a Python and PostgreSQL pipeline on real event data.
+ 
+**Open to Product Engineer, Frontend, and Data Engineering roles.** 📍 Memphis, TN · ✉️ [jcsmileyjr@gmail.com](mailto:jcsmileyjr@gmail.com)
+ 
+---
+ 
+### Selected Impact
+ 
+- 🚀 **Tech Scene Media:** Built and run [memphistechscene.com](https://memphistechscene.com/), a Memphis tech event site with 500+ monthly users and listings for 20+ local orgs
+- 📰 **Newsletter:** 150+ editions promoting 650+ tech events to 1,500+ subscribers; $1,000+ in sponsorship secured
+- 💳 **St. Jude (ALSAC):** Ecommerce donation app adopted by 200+ merchants across 40+ themes; 12% increase in donor conversion
+- 🏆 **MyVillage:** 3rd place at the Innovate Xcelerate Hackathon (48-hour build)
+- 🎓 **Teaching:** 24-week AI & Digital Skills program for justice-impacted learners; previously supported 300+ bootcamp students
+---
+ 
+### Featured Projects
+ 
+#### 1. [Memphis Tech Events Data Platform](https://github.com/jcsmileyjr/memphis-tech-events-pipeline)
+`Python` `PostgreSQL` `FastAPI` `Next.js` `Recharts`
+ 
+A data pipeline that pulls 440 Memphis tech events from the Contentful API, cleans inconsistent values, and loads them into a PostgreSQL star schema. The data is served through a read-only FastAPI service and a Next.js dashboard. The README and case study document the design decisions and trade-offs. 📄 [Read the case study](https://github.com/jcsmileyjr/memphis-tech-events-pipeline/blob/main/.venv/docs/case_study.md)
+ 
+#### 2. [Memphis Tech Scene (Tech Scene Media)](https://github.com/jcsmileyjr/memphis-tech-scene-events) · [Live site](https://memphistechscene.com/)
+`Next.js` `TypeScript` `Tailwind CSS` `Contentful` `Jest` `Cypress` `GitHub Actions`
+ 
+A community-powered media platform with event listings for the Memphis tech community. It uses Contentful CMS for content, Email.js for communication workflows, and automated testing with CI/CD.
+ 
+#### 3. [MyVillage — It takes a village](https://myvillagecares.co/) · 🏆 3rd Place, Innovate Xcelerate Hackathon (2026)
+`AI-assisted prototyping` `Product design`
+ 
+A hyper-local support network that bridges the gap between a new family's needs and a community's desire to help. Baby showers celebrate a birth; MyVillage sustains the "fourth trimester" and beyond, supporting families with infants up to three years old. It turns informal needs (meals, supplies, rest) into clear, trackable requests. Code is in a private repo.
+ 
+#### 4. [Elder](https://github.com/jcsmileyjr/elder) · [Live demo](https://elder-two.vercel.app/)
+`Next.js` `Tailwind CSS` `Sanity.io` `Jest`
+ 
+A full-stack app that lets multiple people contribute to the care of a loved one. It uses Sanity.io as the CMS and database and is tested with Jest.
+ 
+---
+ 
 ### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.dev.to/jcsmileyjr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/jcsmileyjr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jcsmileyjr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/JCSmiley4" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/jcsmileyjr"><img src="https://github-readme-stats.vercel.app/api?username=jcsmileyjr&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jcsmileyjr's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/jcsmileyjr/carwash" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jcsmileyjr&repo=carwash&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/jcsmileyjr/elder" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jcsmileyjr&repo=elder&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/jcsmileyjr/levelupdevalpha" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jcsmileyjr&repo=levelupdevalpha&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/jcsmileyjr/renters-ui" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jcsmileyjr&repo=renters-ui&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+ 
+- **Languages:** JavaScript (5+ yrs), TypeScript, Python, SQL, Java, HTML5, CSS3
+- **Frameworks & Libraries:** React, Next.js, FastAPI, Tailwind CSS, Sass
+- **Data:** PostgreSQL, pandas, ETL pipelines, star-schema modeling, REST APIs
+- **Testing:** Jest, Jasmine, Cypress
+- **Tools & Platforms:** Git, GitHub, Figma, Jira, Netlify, Contentful CMS, GitHub Copilot, Claude
+- **Practices:** Agile, Scrum, accessibility (WCAG, semantic HTML, Google Lighthouse audits)
+---
+ 
+### Community & Writing
+ 
+- **Code Connector** (Volunteer Leader & Online Community Manager, since 2018): manage a 2,000+ member Slack community and have helped host or plan 150+ tech meetups
+- **Memphis Data Professionals** (Organizer & Contributor): user group covering AI, cloud architecture, and analytics
+- **BDPA Memphis** (Contributor; former Social Media Lead & Newsletter Editor): the Memphis chapter of the professional association for Black technologists
+- **Writing:** [Memphis Tech Scene newsletter](https://memphistechscene.beehiiv.com/) · [Dev.to](https://dev.to/jcsmileyjr)
+---
+ 
+### Let's Connect
+ 
+[![Website](https://img.shields.io/badge/Tech%20Scene%20Media-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://memphistechscene.com/)
+[![Newsletter](https://img.shields.io/badge/Newsletter-0891b2?style=for-the-badge&logo=beehiiv&logoColor=white)](https://memphistechscene.beehiiv.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcsmileyjr)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0891b2?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/jcsmileyjr)
+[![Email](https://img.shields.io/badge/Email-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcsmileyjr@gmail.com)
+ 
